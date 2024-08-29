@@ -1,0 +1,13 @@
+{
+    "params": {
+        "scene": "HOSPITAL_0003",
+        "color": "transparent",
+        "size": 43.981395330468104,
+        "aspect_ratio": 2.642378244184437,
+        "profile_irregularity": 0.3082589891453781,
+        "depth": 1.9204770702871137,
+        "frame_rate": 24,
+        "video_duration": 8.002904077310845,
+        "random_seed": 136443319
+    }
+}

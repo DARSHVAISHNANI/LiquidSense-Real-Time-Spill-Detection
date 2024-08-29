@@ -1,0 +1,13 @@
+{
+    "params": {
+        "scene": "WAREHOUSE_0003",
+        "color": "transparent",
+        "size": 91.9467443815654,
+        "aspect_ratio": 1.0174339748143768,
+        "profile_irregularity": 0.20099875099141148,
+        "depth": 1.588062262780692,
+        "frame_rate": 24,
+        "video_duration": 8.357245725814808,
+        "random_seed": 119721671
+    }
+}
