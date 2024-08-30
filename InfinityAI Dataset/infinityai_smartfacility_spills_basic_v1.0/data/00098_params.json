@@ -1,0 +1,13 @@
+{
+    "params": {
+        "scene": "STORE_0004",
+        "color": "transparent",
+        "size": 70.8518442071695,
+        "aspect_ratio": 1.626456562933504,
+        "profile_irregularity": 0,
+        "depth": 1.7154736476870793,
+        "frame_rate": 24,
+        "video_duration": 9.222679795849883,
+        "random_seed": 631474041
+    }
+}

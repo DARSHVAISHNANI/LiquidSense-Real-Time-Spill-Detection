@@ -1,0 +1,13 @@
+{
+    "params": {
+        "scene": "GROCERY_0001",
+        "color": "dark_green",
+        "size": 18.013119768815848,
+        "aspect_ratio": 1.7380906876098265,
+        "profile_irregularity": 0,
+        "depth": 1.30852933959057,
+        "frame_rate": 24,
+        "video_duration": 6.501544241877238,
+        "random_seed": 1191934306
+    }
+}
