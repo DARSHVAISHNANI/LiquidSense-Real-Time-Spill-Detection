@@ -24,10 +24,6 @@ This app is can run on Streamlit local!!! You can check the local demo
 
 <img src="https://github.com/CodingMantras/yolov8-streamlit-detection-tracking/blob/master/assets/pic3.png" >
 
-### Segmentation task on image
-
-<img src="https://github.com/CodingMantras/yolov8-streamlit-detection-tracking/blob/master/assets/segmentation.png" >
-
 ## Requirements
 
 Python 3.6+
