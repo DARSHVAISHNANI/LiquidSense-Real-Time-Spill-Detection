@@ -37,7 +37,7 @@ pip install ultralytics streamlit pytube
 
 ## Installation
 
-- Clone the repository: git clone [<https://github.com/DARSHVAISHNANI/Oil-Spill-Detection-System.git>](https://github.com/DARSHVAISHNANI/LiquidSense-Real-Time-Spill-Detection.git)
+- Clone the repository: git clone [<https://github.com/DARSHVAISHNANI/LiquidSense-Real-Time-Spill-Detection.git>](https://github.com/DARSHVAISHNANI/LiquidSense-Real-Time-Spill-Detection.git)
 - Change to the repository directory: `cd Oil-Spill-Detection-System`
 - Create `weights`, `videos`, and `images` directories inside the project.
 - Download the pre-trained YOLOv8 weights from (<https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8n.pt>) and save them to the `weights` directory in the same project.
