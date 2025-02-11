@@ -12,17 +12,18 @@ This app is can run on Streamlit local!!! You can check the local demo
 
 ## <span style="color:deepskyblue"> Tracking With Object Detection Demo</span>
 
-[Hardware Implementation Video](https://github.com/DARSHVAISHNANI/LiquidSense-Real-Time-Spill-Detection/blob/b9783ded7695b11c273c901932b65a3101730aa5/Github%20Document%20Readme%20File/Jetson%20Xavier%20Setup%20Video.mp4)
+< video src="https://github.com/DARSHVAISHNANI/LiquidSense-Real-Time-Spill-Detection/blob/b9783ded7695b11c273c901932b65a3101730aa5/Github%20Document%20Readme%20File/Jetson%20Xavier%20Setup%20Video.mp4" >
 
 ## Demo Pics
 
 ### Home page
 
-<img src="https://github.com/CodingMantras/yolov8-streamlit-detection-tracking/blob/master/assets/pic1.png" >
-
+<img src="
+https://github.com/DARSHVAISHNANI/LiquidSense-Real-Time-Spill-Detection/blob/b9783ded7695b11c273c901932b65a3101730aa5/Github%20Document%20Readme%20File/image-3.png" >
 ### Page after uploading an image and object detection
 
-<img src="https://github.com/CodingMantras/yolov8-streamlit-detection-tracking/blob/master/assets/pic3.png" >
+<img src="
+https://github.com/DARSHVAISHNANI/LiquidSense-Real-Time-Spill-Detection/blob/b9783ded7695b11c273c901932b65a3101730aa5/Github%20Document%20Readme%20File/image-3.png" >
 
 ## Requirements
 
