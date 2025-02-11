@@ -19,7 +19,7 @@ https://github.com/DARSHVAISHNANI/LiquidSense-Real-Time-Spill-Detection/blob/b97
 
 ### Home page
 
-<img src="https://github.com/DARSHVAISHNANI/LiquidSense-Real-Time-Spill-Detection/blob/b9783ded7695b11c273c901932b65a3101730aa5/Github%20Document%20Readme%20File/image-3.png">
+<img src="https://github.com/DARSHVAISHNANI/LiquidSense-Real-Time-Spill-Detection/blob/b9783ded7695b11c273c901932b65a3101730aa5/Github%20Document%20Readme%20File/image-5.png">
 
 ### Page after uploading an image and object detection
 
