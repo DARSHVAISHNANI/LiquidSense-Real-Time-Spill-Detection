@@ -13,6 +13,7 @@ This app is can run on Streamlit local!!! You can check the local demo
 ## <span style="color:deepskyblue"> Tracking With Object Detection Demo</span>
 
 [Lqiuid Spill Detection on Streamlit](https://youtu.be/LU8Ie-w0HFc)
+[Jetson Xavier & Depth Camera Setup](https://youtu.be/B-WPP3NRRLk)
 
 ## Demo Pics
 
