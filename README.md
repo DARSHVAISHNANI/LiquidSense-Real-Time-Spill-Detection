@@ -19,12 +19,10 @@ https://github.com/DARSHVAISHNANI/LiquidSense-Real-Time-Spill-Detection/blob/b97
 
 ### Home page
 
-<img src="
-https://github.com/DARSHVAISHNANI/LiquidSense-Real-Time-Spill-Detection/blob/b9783ded7695b11c273c901932b65a3101730aa5/Github%20Document%20Readme%20File/image-3.png" >
+<img src="https://github.com/DARSHVAISHNANI/LiquidSense-Real-Time-Spill-Detection/blob/b9783ded7695b11c273c901932b65a3101730aa5/Github%20Document%20Readme%20File/image-3.png">
 ### Page after uploading an image and object detection
 
-<img src="
-https://github.com/DARSHVAISHNANI/LiquidSense-Real-Time-Spill-Detection/blob/b9783ded7695b11c273c901932b65a3101730aa5/Github%20Document%20Readme%20File/image-3.png" >
+<img src="https://github.com/DARSHVAISHNANI/LiquidSense-Real-Time-Spill-Detection/blob/b9783ded7695b11c273c901932b65a3101730aa5/Github%20Document%20Readme%20File/image-3.png" >
 
 ## Requirements
 
@@ -38,7 +36,7 @@ pip install ultralytics streamlit pytube
 
 ## Installation
 
-- Clone the repository: git clone <https://github.com/DARSHVAISHNANI/Oil-Spill-Detection-System.git>
+- Clone the repository: git clone [<https://github.com/DARSHVAISHNANI/Oil-Spill-Detection-System.git>](https://github.com/DARSHVAISHNANI/LiquidSense-Real-Time-Spill-Detection.git)
 - Change to the repository directory: `cd Oil-Spill-Detection-System`
 - Create `weights`, `videos`, and `images` directories inside the project.
 - Download the pre-trained YOLOv8 weights from (<https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8n.pt>) and save them to the `weights` directory in the same project.
