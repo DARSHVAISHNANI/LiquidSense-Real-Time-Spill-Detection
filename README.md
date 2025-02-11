@@ -12,7 +12,7 @@ This app is can run on Streamlit local!!! You can check the local demo
 
 ## <span style="color:deepskyblue"> Tracking With Object Detection Demo</span>
 
-<https://user-images.githubusercontent.com/104087274/234874398-75248e8c-6965-4c91-9176-622509f0ad86.mov>
+<https://github.com/DARSHVAISHNANI/LiquidSense-Real-Time-Spill-Detection/blob/b9783ded7695b11c273c901932b65a3101730aa5/Github%20Document%20Readme%20File/Jetson%20Xavier%20Setup%20Video.mp4>
 
 ## Demo Pics
 
